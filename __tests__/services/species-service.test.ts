@@ -67,7 +67,7 @@ describe('saveSpecies', () => {
 });
 
 
-/*describe('patchSpecies', () => {
+describe('patchSpecies', () => {
 
     test('successful patch', async () => {
         expect.assertions(1);
@@ -101,4 +101,4 @@ describe('saveSpecies', () => {
             expect(err).toBeTruthy();
         }
     });
-}); */
+});

@@ -1,3 +1,4 @@
+/* istanbul ignore file */
 import { db } from './db';
 import { Species, SpeciesRow } from '../models/Species';
 

@@ -1,3 +1,4 @@
+/* istanbul ignore file */
 import { db } from './db';
 import { EmployeeKeeper, Employee } from '../models/EmployeeKeeper';
 

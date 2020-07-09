@@ -15,14 +15,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/200427-Revature-Training/jackson_hopkins_p0.git"
+    "url": "git+https://github.com/mechawing/sample_project"
   },
   "author": "Jackson Hopkins",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/200427-Revature-Training/jackson_hopkins_p0/bugs"
+    "url": "https://github.com/mechawing/sample_project/bugs"
   },
-  "homepage": "https://github.com/200427-Revature-Training/jackson_hopkins_p0#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "body-parser": "^1.19.0",
